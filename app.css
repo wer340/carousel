@@ -1,0 +1,11 @@
+#carouselExampleSlidesOnly{
+    text-align: center;
+}
+.carousel-item{
+    
+    width: 30%;
+    margin: 3% 35%
+}
+img{
+    text-align: center;
+}
