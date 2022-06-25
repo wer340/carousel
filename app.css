@@ -1,11 +1,27 @@
-#carouselExampleSlidesOnly{
+body{
     text-align: center;
+}
+
+#carouselExampleSlidesOnly{
+ 
+}
+.carousel-inner{
+    margin: 0 auto;
+    width: 20%;
+      
 }
 .carousel-item{
-    
-    width: 30%;
-    margin: 3% 35%
+   
+
 }
-img{
-    text-align: center;
+
+.d-block{
+   
+}
+.photo{
+/* display: inline-block; */
+width: 15%;
+}
+.piece-note{
+    display: block;
 }
