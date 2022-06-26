@@ -23,7 +23,7 @@
         <div class="carousel-item" >
           <img src="image/image-3.png" class="d-block w-100" alt="...">
         </div>
-      </div>
+</div>
 ```
 ## 📗 h p li div  display block   all of line 
 
